@@ -1,10 +1,14 @@
-# Maltego transformation example
+# Maltego transforms for The Disinformation Laundromat
 
-## Development
+## Functionality
 
-See the [official Maltego documentation](https://docs.maltego.com/support/solutions/articles/15000017605-writing-local-transforms-in-python#create-a-project-folder-0-0). 
+Currently, only the search by content similarity is supported. Create or just paste URL and run the transform.
 
-## Installation example
+<img width="858" alt="example" src="https://github.com/soxoj/disinfo-laundromat-maltego/assets/31013580/f69718de-6979-4b14-993d-0c9ec8d810e2">
+
+## Installation
+
+0. [Install free Maltego Community Edition](https://www.maltego.com/blog/beginners-guide-to-maltego-setting-up-maltego-community-edition-ce/) (if you don't have Maltego installed).
 
 1. Ensure you have Python3 and pip installed.
 
@@ -18,18 +22,8 @@ See the [official Maltego documentation](https://docs.maltego.com/support/soluti
 
 5. Fill in the fields in the first window (example below), press Next
 
-![image](https://user-images.githubusercontent.com/31013580/145275341-0af933d0-d904-4d78-b767-9cdec17874d9.png)
+<img width="860" alt="options1" src="https://github.com/soxoj/disinfo-laundromat-maltego/assets/31013580/fe80591b-e586-42a2-bac6-072cfb7fa67b">
 
 6. Fill in the fields in the second window (example below), press Finish
 
-![image](https://user-images.githubusercontent.com/31013580/145275517-7b8480a2-a197-4886-be4d-9283a9e27674.png)
-
-## Usage example
-
-1. Create an Alias with desired username and choose transformation
-
-![image](https://user-images.githubusercontent.com/31013580/145275774-77ebe2e3-8956-4071-838e-d23869482069.png)
-
-2. That's all!
-
-![image](https://user-images.githubusercontent.com/31013580/145275886-27f8d7ed-86a8-44fe-a700-74dc69de31c5.png)
+<img width="860" alt="options2" src="https://github.com/soxoj/disinfo-laundromat-maltego/assets/31013580/68fab9f3-2dc8-41df-a389-ffbc59efe5ec">
