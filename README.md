@@ -1,8 +1,10 @@
 # Maltego transforms for The Disinformation Laundromat
 
+**Original project: https://github.com/ASD-at-GMF/disinfo-laundromat**
+
 ## Functionality
 
-Currently, only the search by content similarity is supported. Create or just paste URL and run the transform.
+Currently, only the search by content similarity is supported. Create or just paste a URL and run the transform.
 
 <img width="858" alt="example" src="https://github.com/soxoj/disinfo-laundromat-maltego/assets/31013580/f69718de-6979-4b14-993d-0c9ec8d810e2">
 
